@@ -1,5 +1,5 @@
 import React from 'react';
-import './RatingBlock.css';
+import './Ratingblock.css';
 import { FaStar } from 'react-icons/fa';
 
 function RatingBlock() {
